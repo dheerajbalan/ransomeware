@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 
 import pathlib,os,base64, getpass
 import argparse
