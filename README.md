@@ -16,22 +16,23 @@ Features
 
 1. Clone the repository:
     
-    sh
-    	git clone https://github.com/dheerajbalan/ransomeware.git
-    	cd ransomeware
-    
+   	sh
 
-2. Create and activate a virtual environment:
+		git clone https://github.com/dheerajbalan/ransomeware.git
+    		cd ransomeware
     
-    sh
-    	python -m venv venv
-    	source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+3. Create and activate a virtual environment:
     
+   	sh
 
-3. Install the required packages:
+   		python -m venv venv
+    		source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     
-    sh
-    	pip install -r requirements.txt
+4. Install the required packages:
+    
+	sh
+
+   		pip install -r requirements.txt
     
 
 Usage
