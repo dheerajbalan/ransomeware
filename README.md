@@ -19,16 +19,18 @@ Features
    	sh
 
 		git clone https://github.com/dheerajbalan/ransomeware.git
-    		cd ransomeware
+
+      		cd ransomeware
     
 3. Create and activate a virtual environment:
     
    	sh
 
    		python -m venv venv
-    		source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
+   		source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     
-4. Install the required packages:
+5. Install the required packages:
     
 	sh
 
@@ -46,7 +48,8 @@ Encrypting a File
 To encrypt a file:
 
  sh
-	python ransomeware.py -e path/to/your/file
+
+ 	python ransomeware.py -e path/to/your/file
 
 You will be prompted to enter a password for encryption.
 Decrypting a File
