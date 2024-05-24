@@ -20,7 +20,7 @@ Features
 
 		git clone https://github.com/dheerajbalan/ransomeware.git
 
-      		cd ransomeware
+      	cd ransomeware
     
 3. Create and activate a virtual environment:
     
